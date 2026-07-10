@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    The use of a hardware security device with Windows Hello for Business must be enabled.
 
 .NOTES
     Author          : Michael Henderson
